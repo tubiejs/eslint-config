@@ -7,7 +7,9 @@
     "bump:major": "lerna version major",
     "bump:minor": "lerna version minor",
     "bump:patch": "lerna version patch",
-    "test": "pnpm run -r test"
+    "test": "pnpm run -r test",
+    "lint": "eslint . --ext .js,.ts,.tsx,.jsx --max-warnings=0",
+    "lint:fix": "eslint --fix . --ext .js,.ts,.tsx,.jsx"
   },
   "devDependencies": {
     "lerna": "~6.6.0",
