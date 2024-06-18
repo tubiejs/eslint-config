@@ -2,7 +2,8 @@
   "name": "@tubie/eslint-config-base",
   "version": "0.0.1",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "description": "ESLint base config(Forked from @nighttrax/eslint-config-base)",
   "keywords": [
@@ -30,5 +31,5 @@
     "eslint": "~8.41.0",
     "eslint-plugin-import": "~2.27.0"
   },
-  "gitHead": "d1856cd08a03be1b55c1a9300bc52c0ec2a411c4"
+  "gitHead": "801209d2679ab42c2ec8efb3336c4ee5f72595ae"
 }
