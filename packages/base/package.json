@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "NiGhTTraX's ESLint base config(Forked from @nighttrax/eslint-config-base)",
+  "description": "ESLint base config(Forked from @nighttrax/eslint-config-base)",
   "keywords": [
     "eslint",
     "config"

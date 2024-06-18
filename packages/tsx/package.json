@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "NiGhTTraX's ESLint config for TSX apps",
+  "description": "ESLint config for TSX apps(Forked from @nighttrax/eslint-config-tsx)",
   "keywords": [
     "eslint",
     "config",

@@ -1,10 +1,10 @@
 {
   "name": "@tubie/eslint-config-ts",
-  "version": "11.1.0",
+  "version": "0.0.1",
   "publishConfig": {
     "access": "public"
   },
-  "description": "NiGhTTraX's ESLint config for TS libs",
+  "description": "ESLint config for TS libs(Forked from @nighttrax/eslint-config-ts)",
   "keywords": [
     "eslint",
     "config",
