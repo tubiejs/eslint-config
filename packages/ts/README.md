@@ -6,7 +6,7 @@ My ESLint config for TS projects. It uses https://www.npmjs.com/package/@rushsta
 ## Install
 
 ```sh
-npm i @nighttrax/eslint-config-ts
+npm i @tubie/eslint-config-ts
 ```
 
 
@@ -16,7 +16,7 @@ npm i @nighttrax/eslint-config-ts
 module.exports = {
   'root': true,
   'extends': [
-    '@nighttrax/eslint-config-ts',
+    '@tubie/eslint-config-ts',
   ]
 };
 ```

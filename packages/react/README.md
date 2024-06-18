@@ -7,7 +7,7 @@ This config contains rules specific to TS React projects. It's meant to be used 
 
 ```sh
 npm i eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
-npm i @nighttrax/eslint-config-react
+npm i @tubie/eslint-config-react
 ```
 
 
@@ -19,8 +19,8 @@ This config is meant to be applied on top of one of the other base configs.
 module.exports = {
   'root': true,
   'extends': [
-    '@nighttrax/eslint-config-ts',
-    '@nighttrax/eslint-config-react'
+    '@tubie/eslint-config-ts',
+    '@tubie/eslint-config-react'
   ]
 };
 ```

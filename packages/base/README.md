@@ -6,7 +6,7 @@ This is my base ESLint config for TS projects. The config can be used standalone
 
 ```sh
 npm i eslint eslint-plugin-import eslint-plugin-prettier
-npm i @nighttrax/eslint-config-base
+npm i @tubie/eslint-config-base
 ```
 
 
@@ -17,7 +17,7 @@ module.exports = {
   'root': true,
   
   'extends': [
-    '@nighttrax/eslint-config-base'
+    '@tubie/eslint-config-base'
   ]
 };
 ```
