@@ -1,5 +1,5 @@
 {
-  "name": "@nighttrax/eslint-config",
+  "name": "@tubie/eslint-config",
   "private": true,
   "scripts": {
     "pub": "lerna publish from-package",

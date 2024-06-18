@@ -1,10 +1,10 @@
 {
-  "name": "@nighttrax/eslint-config-base",
-  "version": "10.1.0",
+  "name": "@tubie/eslint-config-base",
+  "version": "0.0.1",
   "publishConfig": {
     "access": "public"
   },
-  "description": "NiGhTTraX's ESLint base config",
+  "description": "NiGhTTraX's ESLint base config(Forked from @nighttrax/eslint-config-base)",
   "keywords": [
     "eslint",
     "config"
@@ -14,7 +14,7 @@
   "main": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NiGhTTraX/eslint-config.git"
+    "url": "git+https://github.com/tubiejs/eslint-config.git"
   },
   "dependencies": {
     "eslint-config-airbnb-base": "~15.0.0",

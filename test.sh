@@ -12,9 +12,9 @@ pnpm link --global
 
 cd /tmp
 rm -rf "$PROJECT"
-git clone https://github.com/NiGhTTraX/"$PROJECT".git || echo Repo already exists
+git clone https://github.com/tubiejs/"$PROJECT".git || echo Repo already exists
 cd "$PROJECT"
 
 pnpm install
-pnpm link --global @nighttrax/eslint-config-"$CONFIG"
+pnpm link --global @tubie/eslint-config-"$CONFIG"
 pnpm run lint
